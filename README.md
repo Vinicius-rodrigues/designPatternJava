@@ -3,5 +3,11 @@
 
 1. Padroes de criacao 
    - [Factory Method](FactoryMethod)
+   - [AbstractFactory](AbstractFactory)
+   - [Builder](Builder)
+   - [Prototype](Prototype)
+   - [Singleton](Singleton)
+   - [Multiton](Multiton)
+   - [ObjectPool](ObjectPool)
 
 
