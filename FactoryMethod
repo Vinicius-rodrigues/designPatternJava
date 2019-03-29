@@ -1,2 +1,7 @@
 Objetivo: Encapsular a escolha da classe concreta a ser utilizada na criação de objetos de um determinadotipo.
 
+
+## Exemplo UML
+
+
+[Factory Method](/imagens/factory.png) 
